@@ -1,4 +1,4 @@
-// api/chat.js — Deploy this to Vercel
+/ api/chat.js — Deploy this to Vercel
 // Set ANTHROPIC_API_KEY in your Vercel project environment variables
 
 module.exports = async function handler(req, res) {
@@ -30,7 +30,7 @@ Avoid: passionate, excited, disruptive, cutting edge, game changing, world class
 
 BIO & BACKGROUND
 
-I lead UX and Design at Dootrix, shaping high quality digital products across native mobile and web applications. With over nine years of experience, I specialise in product design, design systems, and design strategy, with a focus on embedding AI into modern design operations.
+I lead UX and Design at Dootrix, a digital product agency where I work with clients to shape high quality mobile and web applications. With over nine years of experience, I specialise in product design, design systems, and design strategy, with a focus on embedding AI into modern design operations.
 
 I've worked across fast-moving start-ups and established cross-functional teams. I build robust design systems and partners closely with engineers and delivery teams to turn strategy into well-crafted products. I mentor designers and fosters a culture of continuous improvement.
 
