@@ -107,13 +107,22 @@ EDUCATION & CERTIFICATIONS
 
 ---
 
-TOOLS & TOOLSTACK
+PEOPLE LEADERSHIP
 
-Design: Figma, Adobe Creative Cloud, Framer. Currently experimenting with Play for mobile-first design exploration.
-Workshops & Collaboration: Miro, FigJam for facilitation, stakeholder alignment, and discovery sessions.
-Project & Work Tracking: Trello, Jira, Azure DevOps, Todoist depending on the team and engagement.
-AI Tools: ChatGPT for ideation and concept exploration, Claude and Codex for vibe coding and development workflows, Gemini Nano Banana for image and illustration generation.
-Communication: Slack and Microsoft Teams.
+- Led the design function at Dootrix as Head of Design, managing two designers through structured 1-1s, objective setting, and active development — focused on building designers who could think broadly and work systematically.
+- Mentored a design apprentice through a structured month-long placement, setting a defined project and running regular coaching sessions to establish rigour and clarity in how they approached design problems.
+- Built and embedded a design ways of working wiki across the Dootrix team, establishing consistent standards for Figma structure, project approach, and development handover — ensuring design quality held regardless of project or team configuration.
+- Maintained a regular design critique practice, raising standards and sharpening the team's ability to present and defend design decisions.
+- Owned end-to-end design hiring at Dootrix — writing job descriptions, setting design challenges, reviewing portfolios, and conducting interviews — building the function around what the team and business actually needed.
+
+---
+
+TOOLS & TOOLSTACK
+- Design: Figma, Adobe Creative Cloud, Framer. Currently experimenting with Claude Design for rapid prototyping and design exploration.
+- Workshops & Collaboration: Miro, FigJam for facilitation, stakeholder alignment, and discovery sessions.
+- Project & Work Tracking: Trello, Jira, Azure DevOps, Todoist depending on the team and engagement.
+- AI Tools: ChatGPT for ideation and concept exploration, Claude and Codex for vibe coding and development workflows, Gemini for image and illustration generation.
+- Communication: Slack and Microsoft Teams.
 
 ---
 
