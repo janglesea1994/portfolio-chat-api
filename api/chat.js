@@ -130,45 +130,45 @@ PROJECTS & CASE STUDIES
 
 Project 1: GRIDSERVE Mobile App — Concept to Launch
 - Context: GRIDSERVE was expanding its EV charging network rapidly and needed a mobile product to match that growth
-- Responsibility: I led end-to-end product design across search, charging, payments, and account management within a cross-functional team of product, native engineering, and QA
+- Responsibility: Served as the sole designer across the entire product, owning end-to-end design from early discovery through to launch — spanning search, charging, payments, and account management
 - Strategic intent: To create a scalable mobile experience that enabled charging and generated meaningful customer insight to inform future product decisions
 - Impact: Launched in under six months. Achieved a 4.8 star rating from 5,000+ reviews and surpassed 50,000 downloads. Established core charging journeys that reduced friction across Find, Charge, and Pay. Enabled structured customer data capture to support marketing and service optimisation
 - Link: https://jackanglesea.com/gridserve-mobile-app
 
 Project 2: GRIDSERVE Design System — Building a Scalable Design System
 - Context: As GRIDSERVE's product suite expanded, inconsistent UI patterns were slowing delivery and creating accessibility gaps across web and mobile
-- Responsibility: I led the design of a unified system including core foundations, platform-specific component libraries, governance structures, and contribution workflows
+- Responsibility: Established GRIDSERVE's first design system from the ground up — defining the token architecture, component coverage, and governance model underpinning both web and mobile product delivery
 - Strategic intent: To reduce duplication, accelerate feature delivery, and establish an accessible, scalable foundation for long-term product growth
-- Impact: Improved visual and functional consistency across products. Reduced design and development time through reusable patterns. Created an inclusive foundation for future product expansion across web and mobile
+- Impact: Delivered GRIDSERVE's first unified design system, establishing visual and functional consistency across web and mobile for the first time. Reduced friction in design-to-development handover. Improved accessibility standards at the token level. Created structural conditions for the team to scale delivery without accumulating design debt
 - Link: https://jackanglesea.com/gridserve-design-system
 
 Project 3: GRIDSERVE Fraud — Counteracting Fraud Through Strategic Pre-Authentication
 - Context: Fraudulent charging activity was increasing among GRIDSERVE app users, impacting revenue, operational cost, and customer trust
-- Responsibility: I analysed fraud patterns and behavioural data, then designed a pre-authentication layer within the charging journey to validate intent before high-risk actions could occur
-- Strategic intent: To reduce fraudulent activity without introducing friction that would harm legitimate users or damage conversion rates
-- Impact: Reduced fraudulent charging attempts. Maintained high completion rates across legitimate sessions. Decreased support cases linked to authentication confusion. Increased confidence in the charging journey
+- Responsibility: Working from a brief grounded in engineering and product data, set the design direction for a pre-authentication strategy — defining where in the charging journey intervention should sit to reduce risk without affecting legitimate users
+- Strategic intent: To near-eliminate fraudulent activity without introducing friction that would harm legitimate users or damage conversion rates
+- Impact: Near-eliminated in-app credit and debit card fraud, closing a vulnerability that had allowed users to charge without valid payment. Session completion rates held stable. Recognised internally as a major product win. Surfaced a clear business policy decision around hold amount, correctly escalated to the business to own
 - Link: https://jackanglesea.com/gridserve-fraud
 
 Project 4: Fynlo AI — From Concept to Carbon Offset Platform in Five Days
 - Context: Fleet operators lacked accessible tools to measure and offset carbon emissions efficiently
-- Responsibility: I led end-to-end product design across a five-day innovation sprint, defining the platform structure, user journeys, and high-fidelity interfaces using Subframe and AI-assisted tooling
-- Strategic intent: To validate whether an AI-driven platform could simplify emissions tracking and make carbon offsetting actionable at scale
-- Impact: Delivered a functioning carbon offset platform prototype. Validated Subframe as a viable AI-accelerated design workflow. Established a clear value proposition for fleet operators and demonstrated how AI can meaningfully compress product innovation cycles
+- Responsibility: Led all product design across a five-day sprint, working within a defined product direction to deliver a high-fidelity platform concept at pace as the sole designer
+- Strategic intent: To validate whether a well-designed platform could simplify emissions tracking and make carbon offsetting actionable for fleet operators
+- Impact: Delivered a high-fidelity working platform concept within five days. The overall concept secured further investment following the sprint. Established Subframe as a viable tool within the Dootrix design workflow. Demonstrated that structured sprint delivery can produce investor-ready product concepts without the overhead of a traditional discovery phase
 - Link: https://jackanglesea.com/fynlo-ai
 
 Project 5: Heathrow — Exploring the Art of the Possible in Power BI
 - Context: Heathrow's BI products were constrained by Power BI's native visualisation capabilities, limiting operational dashboards and the ability to highlight critical events
-- Responsibility: I led the visual exploration of advanced interaction patterns including geospatial visualisation, zoom behaviour, anomaly highlighting, and operator attention cues, working within a focused innovation team alongside a Senior Power BI Engineer
+- Responsibility: Designed and facilitated stakeholder workshops to surface operational pain points before prototyping began. Set the visual and interaction direction for the geospatial prototype, working iteratively with a Power BI engineer to ensure concepts were technically viable within enterprise constraints
 - Strategic intent: To explore and document what was technically possible within Power BI's architecture, providing a foundation for future product investment decisions
-- Impact: Demonstrated advanced custom visual capabilities beyond Power BI defaults. Defined interaction patterns for anomaly awareness. Provided documented feasibility guidance for future development and increased confidence in next-generation BI product direction
+- Impact: Delivered a working geospatial prototype demonstrating advanced interaction capabilities beyond Power BI's native defaults. Provided documented feasibility guidance for future BI investment. The engagement concluded as a successful exploration and directly led to further commissioned work with Heathrow across a broader workstream
 - Link: https://jackanglesea.com/heathrow
 
 Project 6: MySupport.Guru — Positioning an AI Support Platform for Beauty Professionals
 - Context: Beauty professionals needed technical support that was fast, clear, and tailored to their industry — not generic jargon-heavy tooling
-- Responsibility: I led product strategy, AI personality design, brand identity, and the landing experience as part of the Dootrix AI Incubator, using AI-assisted tooling throughout including Figma Make, Google Gemini, and ChatGPT
-- Strategic intent: To position Support.Guru as a category-specific AI support assistant ready for investor conversations, with a clear value proposition and cohesive brand
-- Impact: Delivered a fully branded, pitch-ready AI support concept. Established a clear value proposition for the beauty industry. Demonstrated how AI-driven workflows can accelerate product incubation
-- Link: https://jackanglesea.com/mysupport-guru`;
+- Responsibility: Led design within the Dootrix AI Incubator — setting brand direction, conversational framework, and product positioning independently. Partnered with engineering to define the AI's tone and response structure, and worked with product leadership to ensure the concept was commercially credible and investor ready
+- Strategic intent: To position MySupport.Guru as a category-specific AI support assistant with a clear value proposition and cohesive brand, ready for investor conversations
+- Impact: Delivered a fully branded, investor-ready AI support concept covering product positioning, visual identity, conversational framework, and a working landing page. Validated the concept with beauty professionals with positive early feedback. The product remains in active development — the strongest signal that the incubator work achieved its core objective of proving viability
+- Link: https://jackanglesea.com/mysupport-guru
 
   try {
     const response = await fetch("https://api.anthropic.com/v1/messages", {
